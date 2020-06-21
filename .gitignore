@@ -1,2 +1,5 @@
-.ipynb_checkpoints/.DS_Store
 .DS_Store
+api_keys.py
+config.py
+**/__pycache__
+**/.ipynb_checkpoints
